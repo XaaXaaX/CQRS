@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <id>SeLoger.WebApi.Template.Net.Core</id>
+    <version>1.3.0</version>
+    <authors>SeLoger</authors>
+    <owners>SeLoger</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Template de WebApi Net Core Seloger</description>
+	<packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>
