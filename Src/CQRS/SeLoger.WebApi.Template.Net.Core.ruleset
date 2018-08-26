@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<RuleSet Name="SonarQube - SeLoger.WebApi.Toolkit.Net.Core Active" ToolsVersion="15.0">
-  <Include Path="..\.sonarlint\tv_seloger.webapi.toolkit.net.core_developcsharp.ruleset" Action="Default" />
-</RuleSet>
